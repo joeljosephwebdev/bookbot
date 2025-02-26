@@ -5,7 +5,7 @@
 - [Joel Joseph](https://www.github.com/joeljosephwebdev)
 
 ## Getting Started 💫
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 The project is really simple to use. First add a book to the books directory. Then edit the book_path variable in main.py to include the name of the book you want to analzye. Finally run main.py
 
   ```sh
